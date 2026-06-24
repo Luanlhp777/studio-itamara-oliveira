@@ -1,92 +1,118 @@
-# Studio Itamara Oliveira
+# 💄 Studio Itamara Oliveira
 
-Landing page profissional desenvolvida para o Studio Itamara Oliveira, especializada em depilação, design de sobrancelhas e hidragloss.
+Landing Page desenvolvida para o Studio Itamara Oliveira, especializada em serviços de estética e beleza.
 
-## Sobre o Projeto
-
-Este projeto foi desenvolvido com foco em apresentar os serviços do Studio Itamara Oliveira de forma moderna, elegante e responsiva.
-
-O site tem como objetivo fortalecer a presença digital da profissional, facilitar o contato com novas clientes e transmitir os valores que fazem parte do atendimento:
-
-- Amor
-- Respeito
-- Empatia
-- Atendimento personalizado
-- Valorização da autoestima
+O projeto foi criado com o objetivo de fortalecer a presença digital do estúdio, apresentar os serviços oferecidos de forma profissional e facilitar o contato de novas clientes através de uma experiência moderna, responsiva e otimizada para dispositivos móveis.
 
 ---
 
-## Funcionalidades
+## 🌐 Projeto Online
 
-- Hero section com destaque para a profissional
-- Design responsivo para desktop, tablet e smartphone
-- Apresentação dos principais serviços
-- Galeria de resultados
-- Depoimentos de clientes
-- Integração com WhatsApp
-- Navegação simples e intuitiva
+🔗 Acesse o site:
+
+https://luanlhp777.github.io/studio-itamara-oliveira/
 
 ---
 
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 - Git
+- GitHub
 - GitHub Pages
 
 ---
 
-## Estrutura do Projeto
+## ✨ Funcionalidades
+
+- Apresentação institucional do estúdio
+- Exibição dos principais serviços
+- Seção de benefícios e diferenciais
+- Chamada para ação (CTA)
+- Integração com WhatsApp
+- Layout responsivo
+- Navegação intuitiva
+- Design moderno voltado para o segmento de beleza
+
+---
+
+## 🎨 Design
+
+O projeto foi desenvolvido seguindo uma identidade visual premium, utilizando elementos elegantes e modernos para transmitir profissionalismo e confiança.
+
+Principais características:
+
+- Paleta de cores sofisticada
+- Tipografia moderna
+- Layout clean
+- Foco na experiência do usuário
+- Adaptado para desktop, tablet e smartphone
+
+---
+
+## 🎯 Objetivo do Projeto
+
+- Fortalecer a presença digital do Studio Itamara Oliveira
+- Facilitar o contato de novas clientes
+- Apresentar os serviços de forma profissional
+- Gerar credibilidade através de uma página moderna e organizada
+- Servir como base para futuras estratégias de marketing digital
+
+---
+
+## 📂 Estrutura do Projeto
 
 ```text
 studio-itamara-oliveira/
 │
-├── assets/
-│
 ├── css/
-│   └── style.css
-│
 ├── js/
-│   └── script.js
+├── images/
 │
-├── wirefrime/
+├── index.html
+├── README.md
 │
-└── index.html
+└── demais arquivos do projeto
 ```
 
 ---
 
-## Objetivo
+## 📈 Aprendizados
 
-Criar uma presença digital profissional para o Studio Itamara Oliveira, fortalecendo sua marca e facilitando a geração de novos contatos através da internet.
+Durante o desenvolvimento deste projeto foram aplicados conceitos importantes de:
 
----
-
-## Responsividade
-
-O projeto foi desenvolvido seguindo o conceito Mobile First, garantindo uma excelente experiência para clientes que acessam o site através de smartphones, tablets e computadores.
-
----
-
-## Projeto Online
-
-Em breve disponível através do GitHub Pages.
+- Estruturação semântica com HTML5
+- Responsividade com CSS3
+- Organização de arquivos e componentes
+- Experiência do usuário (UX)
+- Desenvolvimento de Landing Pages
+- Versionamento com Git e GitHub
+- Publicação com GitHub Pages
 
 ---
 
-## Desenvolvido por
+## 👨‍💻 Desenvolvedor
 
-### Coguis Informática
+**Luan Araujo**
 
-Tecnologia que vai até você.
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Web em formação.
 
-- Instagram: @coguisinformatica
-- GitHub: https://github.com/coguisinformatica
+🔗 GitHub  
+https://github.com/Luanlhp777
+
+🌐 Outros Projetos
+
+- Meu Site de Estudos  
+  https://luanlhp777.github.io/meu-site-estudos/
+
+- Exercícios JavaScript  
+  https://luanlhp777.github.io/exercicios/
+
+- LR Engenharia  
+  https://luanlhp777.github.io/lr-engenharia/
 
 ---
 
-## Licença
-
-Este projeto foi desenvolvido para fins comerciais e institucionais do Studio Itamara Oliveira.
+⭐ Projeto desenvolvido para aplicação prática de desenvolvimento web e criação de soluções digitais para negócios reais.
